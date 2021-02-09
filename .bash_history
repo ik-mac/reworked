@@ -42,3 +42,26 @@ find
 find . -name testin.txt
 find /home -name testin.txt
  sudo su
+sudo su -
+hostname
+hostname app
+hostname
+git config --global user.name "ik-mac"
+git config --global user.email "izac2003@yahoo.co.uk"
+git config --global --list
+git init
+git status
+git add dev.txt
+git status
+git commit -m "first doc commit"
+git status
+git add .
+git status
+git log
+git commit -m "second doc commit"
+git status
+git log
+git remote add origin https://github.com/ik-mac/reworked.git
+git remote -v
+git push origin master
+exit
