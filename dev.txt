@@ -1,1 +1,6 @@
 trying out devops
+Git
+Jenkins
+Maven
+AWS
+Kubernetes
