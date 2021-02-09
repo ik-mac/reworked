@@ -4,4 +4,8 @@ Jenkins
 Maven
 AWS
 Kubernetes
+<<<<<<< HEAD
 Javascript
+=======
+Python
+>>>>>>> hotfix-665
